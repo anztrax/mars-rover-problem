@@ -18,4 +18,4 @@ using npm
 
 and the open [localhost://3000](http://localhost:3000)
 
-:cheers: :cheers:
+:tada: :tada:
